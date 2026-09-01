@@ -1,16 +1,62 @@
-# React + Vite
+# 🌐 Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Welcome to my personal portfolio! This website showcases my skills, projects, certifications, experience, and learning journey as a developer.
 
-Currently, two official plugins are available:
+## 🚀 About:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+I built this portfolio using React.js with a responsive design to present my technical skills and projects in a simple and professional way.
 
-## React Compiler
+## 🛠️ Technologies Used:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* React.js
+* JavaScript
+* HTML5
+* CSS3
+* Bootstrap
+* Bootstrap Icons
 
-## Expanding the Oxlint configuration
+## 📌 Sections:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+* About – Introduction and developer profile
+* Skills – Frontend, backend, programming languages, and tools
+* Projects – Showcasing my web development projects
+* Experience – Internship experience
+* Certifications – Courses, certifications, and awards
+* Contact – Contact information and social links
+
+## 💻 Featured Projects:
+### ⌚ Wristify
+MERN-based e-commerce application with JWT authentication, product management, wishlist, cart, checkout, orders, and admin dashboard.
+
+### 🤖 DocPilot AI
+MERN-based prototype document assistant with JWT authentication, protected routes, subscription management, REST APIs, and responsive dashboard.
+
+### 🌦️ FrostCast
+Responsive weather application built with React.js and **WeatherAPI.com** for real-time weather data and forecasts.
+
+## 📱 Responsive Design
+The portfolio is designed to work across:
+* Desktop
+* Laptop
+* Tablet
+* Mobile
+
+## 🌐 Live Portfolio
+Live Demo: https://v-portfolio-1.netlify.app/
+
+## 📂 Project Setup
+
+Clone the repository:
+git clone https://github.com/your-username/your-portfolio.git
+
+Go to the project folder:
+cd your-portfolio
+
+Install dependencies:
+npm install
+
+Start the development server:
+npm run dev
+
+
+⭐ Thank you for visiting my portfolio!
