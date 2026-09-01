@@ -2,11 +2,11 @@
 
 Welcome to my personal portfolio! This website showcases my skills, projects, certifications, experience, and learning journey as a developer.
 
-## 🚀 About:
+## About:
 
 I built this portfolio using React.js with a responsive design to present my technical skills and projects in a simple and professional way.
 
-## 🛠️ Technologies Used:
+## Technologies Used:
 
 * React.js
 * JavaScript
@@ -15,7 +15,7 @@ I built this portfolio using React.js with a responsive design to present my tec
 * Bootstrap
 * Bootstrap Icons
 
-## 📌 Sections:
+## Sections:
 
 * About – Introduction and developer profile
 * Skills – Frontend, backend, programming languages, and tools
@@ -24,7 +24,7 @@ I built this portfolio using React.js with a responsive design to present my tec
 * Certifications – Courses, certifications, and awards
 * Contact – Contact information and social links
 
-## 💻 Featured Projects:
+## Featured Projects:
 ### ⌚ Wristify
 MERN-based e-commerce application with JWT authentication, product management, wishlist, cart, checkout, orders, and admin dashboard.
 
@@ -41,10 +41,10 @@ The portfolio is designed to work across:
 * Tablet
 * Mobile
 
-## 🌐 Live Portfolio
+## Live Portfolio
 [Portfolio](https://v-portfolio-1.netlify.app/)
 
-## 📂 Project Setup
+## Project Setup
 
 Clone the repository:
 git clone https://github.com/your-username/your-portfolio.git
@@ -57,6 +57,7 @@ npm install
 
 Start the development server:
 npm run dev
+
 
 
 ⭐ Thank you for visiting my portfolio!
