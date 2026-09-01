@@ -34,7 +34,7 @@ MERN-based prototype document assistant with JWT authentication, protected route
 ### 🌦️ FrostCast
 Responsive weather application built with React.js and **WeatherAPI.com** for real-time weather data and forecasts.
 
-## 📱 Responsive Design
+## Responsive Design
 The portfolio is designed to work across:
 * Desktop
 * Laptop
