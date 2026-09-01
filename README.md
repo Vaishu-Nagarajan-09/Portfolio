@@ -42,7 +42,7 @@ The portfolio is designed to work across:
 * Mobile
 
 ## 🌐 Live Portfolio
-Live Demo: https://v-portfolio-1.netlify.app/
+[Portfolio](https://v-portfolio-1.netlify.app/)
 
 ## 📂 Project Setup
 
