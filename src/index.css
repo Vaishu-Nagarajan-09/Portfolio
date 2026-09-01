@@ -346,6 +346,9 @@ html{
     color: white;
     transition: all 0.25s ease;
 }
+.skill-chip:hover{
+    cursor: pointer;
+}
 
 .skill-chip img {
     width: 25px;
